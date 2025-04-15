@@ -1,0 +1,181 @@
+2025-04-11 11:51:28,352 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-11 11:51:28,352 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-11 11:51:28,355 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-11 11:51:33,369 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:51:38,384 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:51:38,549 - Chat-Server - INFO - New connection from ('127.0.0.1', 55458)
+2025-04-11 11:51:43,394 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:51:48,415 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:51:53,425 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:51:58,438 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 30, Bytes/s: 5.99
+2025-04-11 11:52:03,448 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 30, Bytes/s: 5.98
+2025-04-11 11:52:08,459 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 30, Bytes/s: 5.99
+2025-04-11 11:52:12,696 - Chat-Server - INFO - Server shutdown requested...
+2025-04-11 11:52:12,696 - Chat-Server - INFO - Shutting down server...
+2025-04-11 11:52:12,697 - Chat-Server - INFO - Server shutdown complete
+2025-04-11 11:52:16,024 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-11 11:52:16,025 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-11 11:52:16,028 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-11 11:52:21,041 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:52:22,149 - Chat-Server - INFO - New connection from ('127.0.0.1', 55474)
+2025-04-11 11:52:26,053 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:52:31,063 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:52:36,074 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:52:41,085 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 30, Bytes/s: 5.99
+2025-04-11 11:52:46,096 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 30, Bytes/s: 5.99
+2025-04-11 11:52:51,110 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 51, Bytes/s: 10.18
+2025-04-11 11:52:56,121 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 51, Bytes/s: 10.17
+2025-04-11 11:53:01,133 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 51, Bytes/s: 10.18
+2025-04-11 11:53:06,144 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 51, Bytes/s: 10.18
+2025-04-11 11:53:10,544 - Chat-Server - INFO - Client test123 disconnected
+2025-04-11 11:53:11,156 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 80, Bytes/s: 15.97
+2025-04-11 11:53:13,735 - Chat-Server - INFO - Server shutdown requested...
+2025-04-11 11:53:13,736 - Chat-Server - INFO - Shutting down server...
+2025-04-11 11:53:13,737 - Chat-Server - INFO - Server shutdown complete
+2025-04-11 11:57:39,444 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-11 11:57:39,445 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-11 11:57:39,448 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-11 11:57:44,462 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:57:49,472 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:57:54,483 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:57:57,955 - Chat-Server - INFO - New connection from ('127.0.0.1', 55574)
+2025-04-11 11:57:59,495 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:58:04,505 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 11:58:09,456 - Chat-Server - INFO - New user registered: admin123
+2025-04-11 11:58:09,519 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 39, Bytes/s: 7.78
+2025-04-11 11:58:09,528 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-11 11:58:14,530 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 39, Bytes/s: 7.78
+2025-04-11 11:58:19,543 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 39, Bytes/s: 7.78
+2025-04-11 11:58:24,556 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 39, Bytes/s: 7.78
+2025-04-11 11:58:25,977 - Chat-Server - INFO - New connection from ('127.0.0.1', 55580)
+2025-04-11 11:58:29,568 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 39, Bytes/s: 7.78
+2025-04-11 11:58:31,438 - Chat-Server - INFO - User logged in: admin123
+2025-04-11 11:58:31,473 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-11 11:58:34,580 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:58:39,590 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:58:44,600 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.98
+2025-04-11 11:58:49,612 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:58:54,623 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:58:59,635 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:04,645 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:09,656 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:14,668 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:19,680 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:24,690 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:29,701 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.98
+2025-04-11 11:59:34,713 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:39,723 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:44,732 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.98
+2025-04-11 11:59:49,746 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.98
+2025-04-11 11:59:54,756 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 11:59:59,880 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.71
+2025-04-11 12:00:04,890 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 12:00:09,903 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.98
+2025-04-11 12:00:14,915 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 12:00:19,929 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 12:00:24,938 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 60, Bytes/s: 11.97
+2025-04-11 12:00:25,255 - Chat-Server - INFO - Server shutdown requested...
+2025-04-11 12:00:25,256 - Chat-Server - INFO - Shutting down server...
+2025-04-11 12:00:25,257 - Chat-Server - INFO - Server shutdown complete
+2025-04-11 12:00:55,240 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-11 12:00:55,241 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-11 12:00:55,243 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-11 12:00:58,914 - Chat-Server - INFO - New connection from ('127.0.0.1', 55617)
+2025-04-11 12:01:00,258 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 12:01:04,406 - Chat-Server - INFO - User logged in: admin123
+2025-04-11 12:01:05,268 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:01:10,278 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:01:13,722 - Chat-Server - INFO - New connection from ('127.0.0.1', 55627)
+2025-04-11 12:01:15,289 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:01:20,300 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:01:25,312 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:01:25,623 - Chat-Server - INFO - New user registered: admin1234
+2025-04-11 12:01:30,324 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 62, Bytes/s: 20.55
+2025-04-11 12:01:35,334 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 85, Bytes/s: 25.15
+2025-04-11 12:01:40,346 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 85, Bytes/s: 25.15
+2025-04-11 12:01:45,360 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 85, Bytes/s: 25.13
+2025-04-11 12:01:50,371 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 85, Bytes/s: 25.14
+2025-04-11 12:01:54,053 - Chat-Server - INFO - Client admin1234 disconnected
+2025-04-11 12:01:55,384 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:01:55,457 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-11 12:02:00,395 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.12
+2025-04-11 12:02:05,405 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.12
+2025-04-11 12:02:10,416 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:02:15,427 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:02:20,437 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:02:25,448 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:02:30,460 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 85, Bytes/s: 33.13
+2025-04-11 12:02:32,310 - Chat-Server - INFO - Server shutdown requested...
+2025-04-11 12:02:32,311 - Chat-Server - INFO - Shutting down server...
+2025-04-11 12:02:32,312 - Chat-Server - INFO - Server shutdown complete
+2025-04-11 12:20:04,789 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-11 12:20:04,791 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-11 12:20:04,794 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-11 12:20:07,238 - Chat-Server - INFO - New connection from ('127.0.0.1', 55773)
+2025-04-11 12:20:09,818 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 12:20:14,829 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 12:20:19,839 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-11 12:20:24,746 - Chat-Server - INFO - User logged in: admin123
+2025-04-11 12:20:24,850 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:20:29,419 - Chat-Server - INFO - New connection from ('127.0.0.1', 55779)
+2025-04-11 12:20:29,860 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:20:34,870 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:20:39,882 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-11 12:20:40,581 - Chat-Server - INFO - User logged in: admin1234
+2025-04-11 12:20:44,896 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 44, Bytes/s: 16.96
+2025-04-11 12:20:49,907 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 44, Bytes/s: 16.95
+2025-04-11 12:20:54,919 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 67, Bytes/s: 21.55
+2025-04-11 12:20:59,930 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 67, Bytes/s: 21.55
+2025-04-11 12:21:04,943 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 67, Bytes/s: 21.55
+2025-04-11 12:21:09,960 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 67, Bytes/s: 21.54
+2025-04-11 12:21:10,315 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-11 12:21:11,023 - Chat-Server - INFO - Client admin1234 disconnected
+2025-04-11 12:21:14,973 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 80, Bytes Received: 91, Bytes/s: 34.08
+2025-04-11 12:21:19,986 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 80, Bytes Received: 91, Bytes/s: 34.12
+2025-04-14 16:06:18,275 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-14 16:06:18,276 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-14 16:06:18,277 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-14 16:06:19,779 - Chat-Server - INFO - New connection from ('127.0.0.1', 60878)
+2025-04-14 16:06:22,061 - Chat-Server - INFO - New connection from ('127.0.0.1', 60882)
+2025-04-14 16:06:23,365 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-14 16:06:28,406 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-14 16:06:33,412 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 14, Bytes/s: 2.80
+2025-04-14 16:06:38,418 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 14, Bytes/s: 2.80
+2025-04-14 16:06:43,425 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 14, Bytes/s: 2.80
+2025-04-14 16:06:48,432 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 14, Bytes/s: 2.80
+2025-04-14 16:06:50,464 - Chat-Server - INFO - User logged in: admin123
+2025-04-14 16:06:52,073 - Chat-Server - ERROR - Error handling client ('127.0.0.1', 60882): timed out
+2025-04-14 16:06:52,074 - Chat-Server - INFO - Client ('127.0.0.1', 60882) disconnected (unauthenticated)
+2025-04-14 16:06:53,439 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:06:58,446 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:07:03,452 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:07:08,460 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:07:13,466 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:07:18,473 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 35, Bytes/s: 6.99
+2025-04-14 16:07:23,480 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 58, Bytes/s: 11.58
+2025-04-14 16:07:28,485 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 58, Bytes/s: 11.58
+2025-04-14 16:07:28,632 - Chat-Server - INFO - Server shutdown requested...
+2025-04-14 16:07:28,632 - Chat-Server - INFO - Shutting down server...
+2025-04-14 16:07:28,633 - Chat-Server - ERROR - Error handling client admin123: [WinError 10038] An operation was attempted on something that is not a socket
+2025-04-14 16:07:28,633 - Chat-Server - INFO - Server shutdown complete
+2025-04-14 16:07:28,633 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-14 16:11:46,912 - Chat-Server - INFO - TCP server started at 127.0.0.1:5000
+2025-04-14 16:11:46,912 - Chat-Server - INFO - UDP server started at 127.0.0.1:5001
+2025-04-14 16:11:46,914 - Chat-Server - INFO - Chat server is running. Press Ctrl+C to stop.
+2025-04-14 16:11:50,495 - Chat-Server - INFO - New connection from ('127.0.0.1', 61161)
+2025-04-14 16:11:51,924 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-14 16:11:56,930 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 0, Bytes/s: 0.00
+2025-04-14 16:11:57,143 - Chat-Server - INFO - User logged in: admin123
+2025-04-14 16:12:00,771 - Chat-Server - INFO - New connection from ('127.0.0.1', 61168)
+2025-04-14 16:12:01,937 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-14 16:12:06,943 - Chat-Server - INFO - Network stats: Active Connections: 1, Messages Processed: 0, Bytes Sent: 0, Bytes Received: 21, Bytes/s: 4.19
+2025-04-14 16:12:08,026 - Chat-Server - INFO - User logged in: admin1234
+2025-04-14 16:12:11,951 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 44, Bytes/s: 16.98
+2025-04-14 16:12:16,958 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 44, Bytes/s: 16.98
+2025-04-14 16:12:21,965 - Chat-Server - INFO - Network stats: Active Connections: 2, Messages Processed: 0, Bytes Sent: 41, Bytes Received: 44, Bytes/s: 16.98
+2025-04-14 16:12:23,906 - Chat-Server - INFO - Client admin1234 disconnected
+2025-04-14 16:12:26,646 - Chat-Server - INFO - Client admin123 disconnected
+2025-04-14 16:12:26,972 - Chat-Server - INFO - Network stats: Active Connections: 0, Messages Processed: 0, Bytes Sent: 81, Bytes Received: 44, Bytes/s: 24.97
+2025-04-14 16:12:28,965 - Chat-Server - INFO - Server shutdown requested...
+2025-04-14 16:12:28,965 - Chat-Server - INFO - Shutting down server...
+2025-04-14 16:12:28,965 - Chat-Server - INFO - Server shutdown complete
