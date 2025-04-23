@@ -35,7 +35,7 @@ class Server:
         while True:
             message = client_socket.recv(1024).decode()
 
-            if (message.strip() == name + ": bye" or not message.strip()):
+            if (message.strip() == name + ": /quit" or not message.strip()):
                 self.broadcast_message(name, name + " has left the chat!")
                 Server.Clients.remove(client)
                 client_socket.close()
